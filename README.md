@@ -35,6 +35,22 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ```
+## 📤 Output
+```markdown
+All recon data will be stored under:
+recon/example.com/
+├── amass_passive.txt # Passive subdomains from Amass
+├── amass_active.txt # Active subdomains from Amass brute force
+├── all_subdomains.txt # Combined and sorted subdomain list
+├── resolved.txt # Resolved (live) subdomains via dnsx
+├── httpx.txt # Live HTTP services and technologies
+├── nuclei.txt # Vulnerability scan results from nuclei
+├── nmap_scan.nmap # Nmap scan results for open ports
+├── dnsenum_report.xml # XML output from dnsenum
+├── dnsrecon_output.xml # XML output from dnsrecon
+└── theHarvester_example.html # HTML report from theHarvester
+
+```
 
 ## 📬 Feedback & Suggestions
 
