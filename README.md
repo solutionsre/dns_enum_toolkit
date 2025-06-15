@@ -16,7 +16,7 @@ A powerful and automated toolkit for DNS and subdomain enumeration, built with P
 - ✅ Optional virtualenv setup for clean Python environment
 
 ---
-##🌟 Project Goals
+## 🌟 Project Goals
 
 -Simplify reconnaissance using industry-standard tools
 -Automate subdomain enumeration, DNS analysis, and vulnerability scanning
