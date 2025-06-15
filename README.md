@@ -31,21 +31,24 @@ dns_enum_toolkit/
 
 ```
 ## 📂 How to make it Running 
-```markdown
+
 
 **Step 1: Before Running `dns_enum.py`, first run the following to make the prerequisites ready:**
-
+```markdown
 ```bash
 sudo chmod +x install.sh
 sudo ./install.sh
-
+```
 **Step 2: This sequence sets up a clean Python virtual environment and installs all required packages from requirements.txt without affecting system Python**
+```markdown
 sudo apt install python3-venv -y
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
 
 **Step 3: Run the Main File**
+```markdown
 python3 dns_enum.py <url>
 
 ```
