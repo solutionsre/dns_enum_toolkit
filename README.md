@@ -35,7 +35,6 @@ dns_enum_toolkit/
 
 **Step 1: Before Running `dns_enum.py`, first run the following to make the prerequisites ready:**
 ```markdown
-```bash
 sudo chmod +x install.sh
 sudo ./install.sh
 ```
