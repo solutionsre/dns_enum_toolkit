@@ -28,7 +28,7 @@ dns_enum_toolkit/
 ├── requirements.txt          # Python dependencies (optional)
 └── recon/                    # Auto-created per domain (contains output)
 
-```markdown
+
 sudo apt install python3-venv -y
 python3 -m venv venv
 source venv/bin/activate
