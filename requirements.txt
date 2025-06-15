@@ -1,3 +1,4 @@
+# Python packages used in dns_enum_toolkit.py
 requests
 beautifulsoup4
 lxml
