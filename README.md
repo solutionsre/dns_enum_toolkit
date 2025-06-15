@@ -18,14 +18,10 @@ A powerful and automated toolkit for DNS and subdomain enumeration, built with P
 ---
 ##🌟 Project Goals
 
-Simplify reconnaissance using industry-standard tools
-
-Automate subdomain enumeration, DNS analysis, and vulnerability scanning
-
-Promote responsible use of open-source cybersecurity tools
-
-Empower the global infosec and bug bounty community
-
+-Simplify reconnaissance using industry-standard tools
+-Automate subdomain enumeration, DNS analysis, and vulnerability scanning
+-Promote responsible use of open-source cybersecurity tools
+-Empower the global infosec and bug bounty community
 
 
 ## 📂 Directory Structure
