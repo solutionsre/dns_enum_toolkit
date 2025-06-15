@@ -39,7 +39,7 @@ dns_enum_toolkit/
 ## 📂 How to make it Running 
 
 
-**Step 1: Before Running `dns_enum.py`, first run the following to make the prerequisites ready:**
+**Step 1: Before Running `dns_enum.py`, first run the following to make the prerequisites ready-**
 Grants execution permission to the installer script and runs it with superuser rights to install all required dependencies.
 ```markdown
 sudo chmod +x install.sh
