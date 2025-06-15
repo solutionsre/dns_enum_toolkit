@@ -58,6 +58,7 @@ pip install -r requirements.txt
 python3 dns_enum.py <url>
 
 ```
+
 ## 📤 Output
 ```markdown
 All recon data will be stored under:
@@ -74,6 +75,12 @@ recon/example.com/
 └── theHarvester_example.html   # HTML report from theHarvester
 
 ```
+
+# 📊 DNS Recon Summary Report Generator
+
+`generate_report.py` is a standalone Python script that analyzes output files from the `dns_enum_toolkit` and generates a concise, human-readable summary report of subdomains, live hosts, HTTP responses, and discovered vulnerabilities.
+
+---
 
 ## ⚠️ Legal Disclaimer
 This toolkit is intended for authorized security assessments and research only.
