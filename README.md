@@ -33,3 +33,11 @@ sudo apt install python3-venv -y
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
+```
+
+## 📬 Feedback & Suggestions
+
+Have ideas, suggestions, or spotted a bug?  
+Feel free to reach out via email: **uj.dharewa@gmail.com**
+
