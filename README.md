@@ -76,6 +76,8 @@ recon/example.com/
 
 ```
 
+---
+
 ## 📊 DNS Recon Summary Report Generator
 `generate_report.py` is a standalone Python script that analyzes `output files` from the `dns_enum_toolkit` and generates a concise, human-readable summary report of subdomains, live hosts, HTTP responses, and discovered vulnerabilities.
 
@@ -90,14 +92,16 @@ python3 generate_report.py example.com
 This toolkit is intended for authorized security assessments and research only.
 Do not scan any systems or domains without explicit permission. Use responsibly.
 
+---
+
 ## 📝 License
 
 This project is licensed under the **CC BY-NC 4.0** license.  
 You may use, modify, and share it non-commercially with attribution.  
 Commercial use is strictly prohibited.
-
 🔗 [Read the license](https://creativecommons.org/licenses/by-nc/4.0/)
 
+---
 
 ## 📬 Feedback & Suggestions
 
