@@ -86,10 +86,18 @@ python3 generate_report.py example.com
 ---
 
 
-
 ## ⚠️ Legal Disclaimer
 This toolkit is intended for authorized security assessments and research only.
 Do not scan any systems or domains without explicit permission. Use responsibly.
+
+## 📝 License
+
+This project is licensed under the **CC BY-NC 4.0** license.  
+You may use, modify, and share it non-commercially with attribution.  
+Commercial use is strictly prohibited.
+
+🔗 [Read the license](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 ## 📬 Feedback & Suggestions
 
