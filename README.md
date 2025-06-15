@@ -20,7 +20,7 @@ A powerful and automated toolkit for DNS and subdomain enumeration, built with P
 ```markdown
 ## 📂 Directory Structure
 
-```text
+```The dns_enum_toolkit/ directory contains the main Python script, installer, and requirements file for running DNS enumeration. The recon/ folder is automatically created per target domain to store all scan results.
 dns_enum_toolkit/
 ├── dns_enum_toolkit.py       # Main Python script
 ├── install.sh                # One-click installer for all dependencies
