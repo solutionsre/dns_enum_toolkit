@@ -64,6 +64,10 @@ recon/example.com/
 
 ```
 
+## ⚠️ Legal Disclaimer
+This toolkit is intended for authorized security assessments and research only.
+Do not scan any systems or domains without explicit permission. Use responsibly.
+
 ## 📬 Feedback & Suggestions
 
 Have ideas, suggestions, or spotted a bug?  
