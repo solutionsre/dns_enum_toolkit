@@ -19,7 +19,7 @@ A powerful and automated toolkit for DNS and subdomain enumeration, built with P
 
 ## 📂 Directory Structure
 dns_enum_toolkit/
-├── dns_enum_toolkit.py # Main Python script
-├── install.sh # One-click installer for all dependencies
-├── requirements.txt # Python dependencies (optional)
-└── recon/ # Auto-created per domain (contains output)
+-├── dns_enum_toolkit.py # Main Python script
+-├── install.sh # One-click installer for all dependencies
+-├── requirements.txt # Python dependencies (optional)
+-└── recon/ # Auto-created per domain (contains output)
