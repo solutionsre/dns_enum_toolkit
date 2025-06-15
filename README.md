@@ -33,9 +33,11 @@ dns_enum_toolkit/
 ## 📂 How to make it Running 
 ```markdown
 
-**Step 1: Before Running dns_enum.py first run the following to make the Pre-requisite ready**
+**Step 1: Before Running `dns_enum.py`, first run the following to make the prerequisites ready:**
+
+```bash
 sudo chmod +x install.sh
-sudo ./install
+sudo ./install.sh
 
 **Step 2: This sequence sets up a clean Python virtual environment and installs all required packages from requirements.txt without affecting system Python**
 sudo apt install python3-venv -y
