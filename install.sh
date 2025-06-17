@@ -35,6 +35,8 @@ install_apt_tool dnsenum
 install_apt_tool nmap
 install_apt_tool theharvester
 install_apt_tool golang-go
+install_apt_tool dnx
+install_apt_tool nuclei
 
 # Ensure Go binaries are in PATH
 export PATH=$PATH:$(go env GOPATH)/bin
